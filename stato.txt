@@ -8,13 +8,14 @@ ASPETTA UNA VOSTRA CONFERMA
 - voce 5: Sottocartelle dentro le commesse. Domanda del 22 ottobre. Stima 1 h. Un livello in più dentro le cartelle delle commesse, oltre alle cartelle ad albero.
 
 I LAVORI
-1. Caricamento di documenti fino a 100 MB ciascuno [In lavorazione] Non scala ore · Entro lunedì 26 ottobre.
+1. Caricamento di documenti fino a 100 MB ciascuno [Fatto] Non scala ore · Entro lunedì 26 ottobre, consegnato il 23 ottobre.
 2. Dati e logo di Symbiosis [In coda] Stima 1 h · Entro venerdì 30 ottobre. Logo e colore principale nella pagina di accesso e nel menu, nome del portale, dati societari a piè di pagina, testo delle email di invito.
 3. Registro dei download [In coda] Stima 2 h · Entro venerdì 30 ottobre. Accanto a ogni documento, solo per l'amministratore, il numero di utenti che lo hanno aperto o scaricato; con un clic, l'elenco con nome, data e ora. Vale anche per "Scarica tutti". La registrazione parte dalla consegna.
 4. Cartelle ad albero [In coda] Stima 3,5 h · Entro venerdì 6 novembre. Due livelli: le famiglie di prodotto e, dentro, le cartelle delle commesse. Ogni livello si apre e si chiude, con una ricerca per nome della cartella. Ogni cliente vede solo le famiglie che contengono le sue cartelle.
 
 NOVITÀ, DALLA PIÙ RECENTE
 venerdì 23 ottobre
+- Per l'amministratore: da oggi si caricano di nuovo documenti fino a 100 MB ciascuno. (voce 1)
 - Da oggi è attivo il pacchetto di 15 ore, valido fino al 22 ottobre 2027.
 
 COME SEGNALARE
