@@ -1,19 +1,23 @@
-Portale clienti Symbiosis, stato dei lavori. Aggiornato venerdì 23 ottobre 2026.
+Portale clienti Symbiosis, stato dei lavori. Aggiornato giovedì 29 ottobre 2026.
 
 IL PACCHETTO
 Pacchetto di 15 ore, valido fino al 22 ottobre 2027
-Usate 0 h · Impegnate nei lavori confermati 6,5 h · Residue 15 h
+Usate 1 h · Impegnate nei lavori confermati 5,5 h · Residue 14 h
 
 ASPETTA UNA VOSTRA CONFERMA
 - voce 5: Sottocartelle dentro le commesse. Domanda del 22 ottobre. Stima 1 h. Un livello in più dentro le cartelle delle commesse, oltre alle cartelle ad albero.
 
 I LAVORI
 1. Caricamento di documenti fino a 100 MB ciascuno [Fatto] Non scala ore · Entro lunedì 26 ottobre, consegnato il 23 ottobre.
-2. Dati e logo di Symbiosis [In coda] Stima 1 h · Entro venerdì 30 ottobre. Logo e colore principale nella pagina di accesso e nel menu, nome del portale, dati societari a piè di pagina, testo delle email di invito.
+2. Dati e logo di Symbiosis [Fatto] Stima 1 h, usate 1 h · Entro venerdì 30 ottobre, consegnato il 29 ottobre. Logo e colore principale nella pagina di accesso e nel menu, nome del portale, dati societari a piè di pagina, testo delle email di invito.
+   - 29 ottobre, Logo, colore e nome del portale, dati societari a piè di pagina, testo delle email di invito, 1 h
 3. Registro dei download [In coda] Stima 2 h · Entro venerdì 30 ottobre. Accanto a ogni documento, solo per l'amministratore, il numero di utenti che lo hanno aperto o scaricato; con un clic, l'elenco con nome, data e ora. Vale anche per "Scarica tutti". La registrazione parte dalla consegna.
 4. Cartelle ad albero [In coda] Stima 3,5 h · Entro venerdì 6 novembre. Due livelli: le famiglie di prodotto e, dentro, le cartelle delle commesse. Ogni livello si apre e si chiude, con una ricerca per nome della cartella. Ogni cliente vede solo le famiglie che contengono le sue cartelle.
 
 NOVITÀ, DALLA PIÙ RECENTE
+giovedì 29 ottobre
+- Da oggi il portale ha il logo, il colore e i dati societari di Symbiosis. (voce 2)
+
 venerdì 23 ottobre
 - Da oggi si caricano di nuovo documenti fino a 100 MB ciascuno. (voce 1)
 - Da oggi è attivo il pacchetto di 15 ore, valido fino al 22 ottobre 2027.
